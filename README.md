@@ -1,7 +1,10 @@
 # PalindromeChecker
 
 ## Definition
-Palindrome: a word, phrase, or sequence that reads the same backward as forward.Is always a good challange.
+Palindrome: a word, phrase, or sequence that reads the same backward as forward.It is always a good challange.
+
+## Examples
+ "racecar," "level," "madam," "radar," "rotor," "sagas," "solos," "stats," "tenet," "wow."
 
 ## Description
 This is a simple program that checks if a string is a palindrome or not. It is written in Python 3.7.3.
